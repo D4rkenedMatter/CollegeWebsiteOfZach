@@ -4,3 +4,6 @@
 #mainbtn{
 	font-size:72pt;
 }
+.navbar .navbar-nav {
+	text-align:center;
+}
